@@ -61,54 +61,55 @@ export const QUIZ = [
   },
 ]
 
+// Unsplash source API — reliable hotlink-friendly images, themed to match each sight
 export const SIGHTS = [
   {
     name: 'Notre-Dame la Grande',
     desc: 'One of the finest Romanesque façades in France — a riot of biblical carvings. ⚠️ Currently closed for restoration until May 2027, but stunning to see from outside.',
     emoji: '⛪',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Notre_Dame_la_Grande%2C_Poitiers.jpg/800px-Notre_Dame_la_Grande%2C_Poitiers.jpg',
+    img: 'https://source.unsplash.com/800x500/?romanesque,church,france',
   },
   {
     name: 'Baptistère Saint-Jean',
     desc: 'One of the oldest surviving Christian buildings in the Western world, built in the 4th–5th century AD. Still has original 12th-century wall paintings inside.',
     emoji: '🕍',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poitiers_-_Bapt%C3%AAs%C3%A8re_Saint-Jean_%2886%29_-_Vue_g%C3%A9n%C3%A9rale_ext%C3%A9rieure_-_2.jpg/800px-Poitiers_-_Bapt%C3%AAs%C3%A8re_Saint-Jean_%2886%29_-_Vue_g%C3%A9n%C3%A9rale_ext%C3%A9rieure_-_2.jpg',
+    img: 'https://source.unsplash.com/800x500/?ancient,baptistery,medieval',
   },
   {
     name: 'Palace of the Counts',
     desc: "Eleanor of Aquitaine's home, where Joan of Arc was questioned in 1429. Soaring medieval Great Hall with immense fireplaces — free to enter.",
     emoji: '🏰',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_des_Comtes_de_Poitou_-_Grande_salle.jpg/800px-Palais_des_Comtes_de_Poitou_-_Grande_salle.jpg',
+    img: 'https://source.unsplash.com/800x500/?medieval,palace,great-hall',
   },
   {
     name: 'Cathédrale Saint-Pierre',
     desc: "Oldest surviving stained glass in France (12th c.) and the oldest choir stalls in the country (13th c.) — Eleanor of Aquitaine helped commission it.",
     emoji: '🌟',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Poitiers_-_Cath%C3%A9drale_Saint-Pierre_-_Fa%C3%A7ade_occidentale_-_2.jpg/800px-Poitiers_-_Cath%C3%A9drale_Saint-Pierre_-_Fa%C3%A7ade_occidentale_-_2.jpg',
+    img: 'https://source.unsplash.com/800x500/?cathedral,stained-glass,gothic',
   },
   {
     name: 'Musée Sainte-Croix',
     desc: 'Roman gladiator helmets, a marble Athena found by builders in 1910, and works by Camille Claudel — all built over exposed Roman foundations.',
     emoji: '🏺',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Poitiers_-_Mus%C3%A9e_Sainte-Croix_-_Facade.jpg/800px-Poitiers_-_Mus%C3%A9e_Sainte-Croix_-_Facade.jpg',
+    img: 'https://source.unsplash.com/800x500/?museum,roman,antiquity',
   },
   {
     name: 'Les Halles Market',
     desc: 'Vibrant covered market next to Notre-Dame la Grande — local cheeses, charcuterie, fresh produce and real Poitevin life.',
     emoji: '🧺',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Poitiers_-_Halles_-_1.jpg/800px-Poitiers_-_Halles_-_1.jpg',
+    img: 'https://source.unsplash.com/800x500/?french,market,food,cheese',
   },
   {
     name: 'Futuroscope',
     desc: "One of France's most spectacular theme parks — 40+ rides and immersive 4D shows, just 20 minutes from the city centre.",
     emoji: '🚀',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Futuroscope_%40_Poitiers_%288381127739%29.jpg/800px-Futuroscope_%40_Poitiers_%288381127739%29.jpg',
+    img: 'https://source.unsplash.com/800x500/?theme-park,futuristic,rides',
   },
   {
     name: 'Sainte-Radegonde Church',
     desc: "Church of Poitiers' dragon-slaying patron saint — and (unofficially) the patron saint of passing exams, popular with students.",
     emoji: '🐉',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Poitiers_-_%C3%89glise_Sainte-Radegonde_-_Fa%C3%A7ade_-_1.jpg/800px-Poitiers_-_%C3%89glise_Sainte-Radegonde_-_Fa%C3%A7ade_-_1.jpg',
+    img: 'https://source.unsplash.com/800x500/?romanesque,church,medieval,france',
   },
 ]
 

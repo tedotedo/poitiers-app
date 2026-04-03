@@ -4,7 +4,7 @@ export default function Home() {
       {/* Hero */}
       <div className="relative h-72 overflow-hidden">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Notre_Dame_la_Grande%2C_Poitiers.jpg/800px-Notre_Dame_la_Grande%2C_Poitiers.jpg"
+          src="https://source.unsplash.com/800x600/?poitiers,france,church"
           alt="Poitiers"
           className="w-full h-full object-cover"
         />
