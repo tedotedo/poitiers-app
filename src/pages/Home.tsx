@@ -4,7 +4,7 @@ export default function Home() {
       {/* Hero */}
       <div className="relative h-72 overflow-hidden">
         <img
-          src="https://source.unsplash.com/800x600/?poitiers,france,church"
+          src="/images/notre-dame.jpg"
           alt="Poitiers"
           className="w-full h-full object-cover"
         />

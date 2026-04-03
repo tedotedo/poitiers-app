@@ -61,55 +61,54 @@ export const QUIZ = [
   },
 ]
 
-// Unsplash source API — reliable hotlink-friendly images, themed to match each sight
 export const SIGHTS = [
   {
     name: 'Notre-Dame la Grande',
     desc: 'One of the finest Romanesque façades in France — a riot of biblical carvings. ⚠️ Currently closed for restoration until May 2027, but stunning to see from outside.',
     emoji: '⛪',
-    img: 'https://source.unsplash.com/800x500/?romanesque,church,france',
+    img: '/images/notre-dame.jpg',
   },
   {
     name: 'Baptistère Saint-Jean',
     desc: 'One of the oldest surviving Christian buildings in the Western world, built in the 4th–5th century AD. Still has original 12th-century wall paintings inside.',
     emoji: '🕍',
-    img: 'https://source.unsplash.com/800x500/?ancient,baptistery,medieval',
+    img: '/images/baptistere.jpg',
   },
   {
     name: 'Palace of the Counts',
     desc: "Eleanor of Aquitaine's home, where Joan of Arc was questioned in 1429. Soaring medieval Great Hall with immense fireplaces — free to enter.",
     emoji: '🏰',
-    img: 'https://source.unsplash.com/800x500/?medieval,palace,great-hall',
+    img: '/images/palace.jpg',
   },
   {
     name: 'Cathédrale Saint-Pierre',
     desc: "Oldest surviving stained glass in France (12th c.) and the oldest choir stalls in the country (13th c.) — Eleanor of Aquitaine helped commission it.",
     emoji: '🌟',
-    img: 'https://source.unsplash.com/800x500/?cathedral,stained-glass,gothic',
+    img: '/images/cathedrale.jpg',
   },
   {
     name: 'Musée Sainte-Croix',
     desc: 'Roman gladiator helmets, a marble Athena found by builders in 1910, and works by Camille Claudel — all built over exposed Roman foundations.',
     emoji: '🏺',
-    img: 'https://source.unsplash.com/800x500/?museum,roman,antiquity',
+    img: '/images/museum.jpg',
   },
   {
     name: 'Les Halles Market',
     desc: 'Vibrant covered market next to Notre-Dame la Grande — local cheeses, charcuterie, fresh produce and real Poitevin life.',
     emoji: '🧺',
-    img: 'https://source.unsplash.com/800x500/?french,market,food,cheese',
+    img: '/images/market.jpg',
   },
   {
     name: 'Futuroscope',
     desc: "One of France's most spectacular theme parks — 40+ rides and immersive 4D shows, just 20 minutes from the city centre.",
     emoji: '🚀',
-    img: 'https://source.unsplash.com/800x500/?theme-park,futuristic,rides',
+    img: '/images/futuroscope.jpg',
   },
   {
     name: 'Sainte-Radegonde Church',
     desc: "Church of Poitiers' dragon-slaying patron saint — and (unofficially) the patron saint of passing exams, popular with students.",
     emoji: '🐉',
-    img: 'https://source.unsplash.com/800x500/?romanesque,church,medieval,france',
+    img: '/images/radegonde.jpg',
   },
 ]
 
